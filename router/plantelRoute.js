@@ -21,3 +21,4 @@ router.put('/diagnostico1/:id', actualizarDiagnostico);
 router.put('/diagnostico2/:id', actualizarDiagnostico2);
 
 export default router;
+ //
